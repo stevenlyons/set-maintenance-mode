@@ -1,0 +1,16 @@
+{
+  "name": "set-maintenance-mode",
+  "version": "0.1.0",
+  "description": "Enables/disables Maintenance Mode on an Openmix platform",
+  "main": "app.js",
+  "scripts": {
+    "set-maintenance-mode": "node app.js"
+  },
+  "dependencies": {
+    "node-rest-client": "^1.5",
+    "async": "^1.4",
+    "minimist": "^1.2"
+  },
+  "author": "Steven Lyons",
+  "license": "MIT"
+}
