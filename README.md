@@ -17,7 +17,7 @@ Portal:
 The basic commandline:
 
 ```
-$ node app.js -v test_sonar_1 test_sonar_2 -i script_test -s 869ffa8e-9341-4b1e-9511-d7a46dbd7636 -e 
+$ node app.js -v -e test_sonar_1 test_sonar_2 -i script_test -s 869ffa8e...
 ```
 
 The following options are available:
